@@ -8,3 +8,7 @@ Myself **Arya Rajendra** 2nd Year undergrad from the Department of **Aerospace E
 3. Reading books
 4. Listening music
 # I am just expermienting with Markdown Syntax and learning GitHub at this moment. 
+
+## experimenting to learn
+
+1. nothing.
